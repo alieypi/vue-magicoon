@@ -3,8 +3,8 @@ import { magicoon } from "./components";
 </script>
 
 <template>
-  <magicoon name="ActivityStarSquare" size="40" type="Light" color="blue" />
-  <magicoon name="ActivityStarSquare" size="40" color="blue" />
-  <magicoon name="ActivityStarSquare" size="40" type="Filled" color="blue" />
-  <magicoon name="ActivityStarSquare" size="40" type="Duotone" color="blue" />
+  <magicoon name="AlarmTimesAlt" size="40" type="Light" color="#25314c" />
+  <magicoon name="AlarmTimesAlt" size="40" color="#25314c" />
+  <magicoon name="AlarmTimesAlt" size="40" type="Filled" color="#25314c" />
+  <magicoon name="AlarmTimesAlt" size="40" type="Duotone" color="#25314c" />
 </template>
